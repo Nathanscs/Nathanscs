@@ -1,4 +1,4 @@
-### Ola! Eu sou o Nathan Soares
+### Olá! Eu sou o Nathan Soares
 ##
 <div align="center">
   <a href="https://github.com/Nathanscs">
