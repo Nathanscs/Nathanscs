@@ -1,6 +1,6 @@
 ### Ola! Eu sou o Nathan Soares
 
-- 🔭 Não trabalho na área
+- 🔭 Dou aula de C e C#
 - 🌱 Estudando HTMLL, CSS e JavaScript
 - 📫 Contate-me no email: nathansoarescs@gmail.com
 <br>
