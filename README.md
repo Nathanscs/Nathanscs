@@ -1,9 +1,5 @@
 ### Ola! Eu sou o Nathan Soares
 
-- 🔭 Dou aula de C e C#
-- 🌱 Estudando HTMLL, CSS e JavaScript
-- 📫 Contate-me no email: nathansoarescs@gmail.com
-<br>
 <div align="center">
   <a href="https://github.com/Nathanscs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathanscs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
