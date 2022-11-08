@@ -12,7 +12,7 @@
   <img align="center" alt="Nathan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Nathan-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Nathan-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Nathan-Postgresql" height="30" width="40" src="[https://user-images.githubusercontent.com/3423282/123477765-e4013700-d5d4-11eb-876c-de9aab52153b.png](https://cdn-icons-png.flaticon.com/512/5968/5968252.png)" />
+  <img align="center" alt="Nathan-Postgresql" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" />
   
 </div>
   
