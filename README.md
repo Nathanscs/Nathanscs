@@ -10,7 +10,8 @@
 | ------------- | :-------------: | :--------:   | :---------: 
 | 3º Year Ciência da Computação | <a href="https://nathanscs.github.io/portifolio/">Portfolio</a>        | <a href="https://nathanscs.github.io/portifolio/">Portfolio</a>   | <a href="https://www.linkedin.com/in/dimasdeabreu/">LinkedIn</a> 
 | 1º Year Programação CTOP |        |<a href="https://nathanscs.github.io/portifolio/">Portfolio</a> | nathansoarescs@gmail.com
-
+| 2º Year Criminal investigation |       |<a href="https://gx.games/pt-br/studios/9a29a6c2-ddfa-488b-a95e-4b85035efa2c/">Portfolio GameMaker</a> 
+  
 </div>
 
 <div align="center">
