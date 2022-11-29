@@ -4,10 +4,14 @@
   </h1>
 </div>
 
+<div align="center">
 
+| **Academic Formation**     | **FRONT Developer**     | **BACK Developer** | **Contact**
+| ------------- | :-------------: | :--------:   | :---------: 
+| 3º Year Ciência da Computação | <a href="https://nathanscs.github.io/portifolio/">Portfolio</a>        | <a href="https://nathanscs.github.io/portifolio/">Portfolio</a>   | <a href="https://www.linkedin.com/in/dimasdeabreu/">LinkedIn</a> 
+| 1º Year Programação CTOP |        |<a href="https://nathanscs.github.io/portifolio/">Portfolio</a> | nathansoarescs@gmail.com
 
-
-
+</div>
 
 <div align="center">
   <div align='center'>
