@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>
-     Hi, My name is <a href="https://www.linkedin.com/in/nathanscs/">Nathan Soares</a>
+     Oi, Meu nome é <a href="https://www.linkedin.com/in/nathanscs/">Nathan Soares</a>
   </h1>
 </div>
 
