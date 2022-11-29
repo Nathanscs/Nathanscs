@@ -1,10 +1,23 @@
-### Olá! Eu sou o Nathan Soares
-##
-<div align="center">
-  <a href="https://github.com/Nathanscs">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Nathanscs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathanscs&layout=compact&langs_count=7&theme=dracula"/>
+<div align='center'>
+  <h1>
+     Hi, My name is <a href="https://www.linkedin.com/in/dimasdeabreu/">Dimas Abreu</a>
+  </h1>
 </div>
+
+<div align="center">
+  <div align='center'>
+  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=nathanscs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanscs&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+</div>
+  
+  <div align = "center">
+  
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimasabreu&theme=highcontrast)](https://git.io/streak-stats)
+  
+</div>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
