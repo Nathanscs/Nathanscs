@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>
-     Hi, My name is <a href="https://www.linkedin.com/in/dimasdeabreu/">Dimas Abreu</a>
+     Hi, My name is <a href="https://www.linkedin.com/in/nathanscs/">Nathan Soares</a>
   </h1>
 </div>
 
@@ -11,14 +11,14 @@
 
 <div align="center">
   <div align='center'>
-  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=dimasabreu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasabreu&langs_count=8&theme=vision-friendly-dark&hide_border=true">
+  <img height="194px" src="https://github-readme-stats.vercel.app/api?username=nathanscs&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanscs&langs_count=8&theme=vision-friendly-dark&hide_border=true">
 </div>
   
   <div align = "center">
   
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dimasabreu&theme=highcontrast)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nathanscs&theme=highcontrast)](https://git.io/streak-stats)
   
 </div>
 </div>
